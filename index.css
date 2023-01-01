@@ -1,0 +1,10 @@
+.tasks {
+	/* margin-top: 40px; */
+	background-color: rgb(228, 223, 223);
+	width: 600px;
+	height: 300px;
+	margin: 40px 40px;
+	padding: 40px;
+	line-height: 2;
+	/* text-align: center; */
+}
